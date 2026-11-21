@@ -1,0 +1,6 @@
+{
+  "name": "Trustworthy Personal Knowledge Agent",
+  "description": "Local privacy-first personal knowledge agent that transforms notes into reusable knowledge nuggets with risk detection, human-in-the-loop review, explicit sharing consent, provenance tracking, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
